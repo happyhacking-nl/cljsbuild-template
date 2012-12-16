@@ -1,4 +1,4 @@
-(defproject cljsbuild-template/lein-template "0.1.0-SNAPSHOT"
+(defproject cljsbuild-template/lein-template "0.2.0-SNAPSHOT"
   :description "Leiningen template for ClojureScript build with lein-cljsbuild"
   :url "http://github.com/happyhacking-nl/cljsbuild-template"
   :license {:name "Eclipse Public License"
