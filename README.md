@@ -4,7 +4,11 @@ A Leiningen template for ClojureScript project build with lein-cljsbuild.
 
 ## Usage
 
+```sh
 lein new cljsbuild-template project_name
+cd project_name
+lein cljsbuild test
+```
 
 ## License
 
